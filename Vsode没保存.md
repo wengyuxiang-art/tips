@@ -1,0 +1,1 @@
+- terminal：~/.config/Code/Backups[ubuntu]
